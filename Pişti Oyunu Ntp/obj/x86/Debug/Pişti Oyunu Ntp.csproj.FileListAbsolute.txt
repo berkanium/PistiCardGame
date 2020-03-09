@@ -1,0 +1,36 @@
+C:\Users\LENOVO\Desktop\Visual Studio Programlar\Pişti Oyunu Ntp\Pişti Oyunu Ntp\bin\Debug\Pişti Oyunu Ntp.exe
+C:\Users\LENOVO\Desktop\Visual Studio Programlar\Pişti Oyunu Ntp\Pişti Oyunu Ntp\bin\Debug\Pişti Oyunu Ntp.pdb
+C:\Users\LENOVO\Desktop\Visual Studio Programlar\Pişti Oyunu Ntp\Pişti Oyunu Ntp\obj\x86\Debug\Pişti_Oyunu_Ntp.Giris.resources
+C:\Users\LENOVO\Desktop\Visual Studio Programlar\Pişti Oyunu Ntp\Pişti Oyunu Ntp\obj\x86\Debug\Pişti_Oyunu_Ntp.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\Visual Studio Programlar\Pişti Oyunu Ntp\Pişti Oyunu Ntp\obj\x86\Debug\Pişti Oyunu Ntp.csproj.GenerateResource.Cache
+C:\Users\LENOVO\Desktop\Visual Studio Programlar\Pişti Oyunu Ntp\Pişti Oyunu Ntp\obj\x86\Debug\Pişti Oyunu Ntp.exe
+C:\Users\LENOVO\Desktop\Visual Studio Programlar\Pişti Oyunu Ntp\Pişti Oyunu Ntp\obj\x86\Debug\Pişti Oyunu Ntp.pdb
+C:\Users\LENOVO\Desktop\Visual Studio Programlar\Pişti Oyunu Ntp\Pişti Oyunu Ntp\obj\x86\Debug\Pişti Oyunu Ntp.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\Desktop\Visual Studio Programlar\Pişti Oyunu Ntp\Pişti Oyunu Ntp\obj\x86\Debug\Pişti_Oyunu_Ntp.Masa.resources
+C:\Users\LENOVO\Desktop\Pişti Oyunu Ntp Derya\Pişti Oyunu Ntp\obj\x86\Debug\Pişti Oyunu Ntp.exe
+C:\Users\LENOVO\Desktop\Pişti Oyunu Ntp Derya\Pişti Oyunu Ntp\obj\x86\Debug\Pişti Oyunu Ntp.pdb
+C:\Users\LENOVO\Desktop\Pişti Oyunu Ntp Derya\Pişti Oyunu Ntp\bin\Debug\Pişti Oyunu Ntp.exe
+C:\Users\LENOVO\Desktop\Pişti Oyunu Ntp Derya\Pişti Oyunu Ntp\bin\Debug\Pişti Oyunu Ntp.pdb
+C:\Users\LENOVO\Desktop\Pişti Oyunu Ntp Derya\Pişti Oyunu Ntp\obj\x86\Debug\Pişti Oyunu Ntp.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\Desktop\Pişti Oyunu Ntp Derya\Pişti Oyunu Ntp\obj\x86\Debug\Pişti_Oyunu_Ntp.Giris.resources
+C:\Users\LENOVO\Desktop\Pişti Oyunu Ntp Derya\Pişti Oyunu Ntp\obj\x86\Debug\Pişti_Oyunu_Ntp.Masa.resources
+C:\Users\LENOVO\Desktop\Pişti Oyunu Ntp Derya\Pişti Oyunu Ntp\obj\x86\Debug\Pişti_Oyunu_Ntp.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\Pişti Oyunu Ntp Derya\Pişti Oyunu Ntp\obj\x86\Debug\Pişti Oyunu Ntp.csproj.GenerateResource.Cache
+C:\Users\LENOVO\Desktop\Visual Studio Programlar\Pişti Oyunu Ntp Derya1\Pişti Oyunu Ntp\obj\x86\Debug\Pişti Oyunu Ntp.exe
+C:\Users\LENOVO\Desktop\Visual Studio Programlar\Pişti Oyunu Ntp Derya1\Pişti Oyunu Ntp\obj\x86\Debug\Pişti Oyunu Ntp.pdb
+C:\Users\LENOVO\Desktop\Visual Studio Programlar\Pişti Oyunu Ntp Derya1\Pişti Oyunu Ntp\bin\Debug\Pişti Oyunu Ntp.exe
+C:\Users\LENOVO\Desktop\Visual Studio Programlar\Pişti Oyunu Ntp Derya1\Pişti Oyunu Ntp\bin\Debug\Pişti Oyunu Ntp.pdb
+C:\Users\LENOVO\Desktop\Visual Studio Programlar\Pişti Oyunu Ntp Derya1\Pişti Oyunu Ntp\obj\x86\Debug\Pişti Oyunu Ntp.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\Desktop\Visual Studio Programlar\Pişti Oyunu Ntp Derya1\Pişti Oyunu Ntp\obj\x86\Debug\Pişti_Oyunu_Ntp.Giris.resources
+C:\Users\LENOVO\Desktop\Visual Studio Programlar\Pişti Oyunu Ntp Derya1\Pişti Oyunu Ntp\obj\x86\Debug\Pişti_Oyunu_Ntp.Masa.resources
+C:\Users\LENOVO\Desktop\Visual Studio Programlar\Pişti Oyunu Ntp Derya1\Pişti Oyunu Ntp\obj\x86\Debug\Pişti_Oyunu_Ntp.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\Visual Studio Programlar\Pişti Oyunu Ntp Derya1\Pişti Oyunu Ntp\obj\x86\Debug\Pişti Oyunu Ntp.csproj.GenerateResource.Cache
+E:\Pişti Oyunu Ntp Derya1\Pişti Oyunu Ntp\obj\x86\Debug\Pişti Oyunu Ntp.exe
+E:\Pişti Oyunu Ntp Derya1\Pişti Oyunu Ntp\obj\x86\Debug\Pişti Oyunu Ntp.pdb
+E:\Pişti Oyunu Ntp Derya1\Pişti Oyunu Ntp\obj\x86\Debug\Pişti Oyunu Ntp.csprojResolveAssemblyReference.cache
+E:\Pişti Oyunu Ntp Derya1\Pişti Oyunu Ntp\obj\x86\Debug\Pişti_Oyunu_Ntp.Giris.resources
+E:\Pişti Oyunu Ntp Derya1\Pişti Oyunu Ntp\obj\x86\Debug\Pişti_Oyunu_Ntp.Masa.resources
+E:\Pişti Oyunu Ntp Derya1\Pişti Oyunu Ntp\obj\x86\Debug\Pişti_Oyunu_Ntp.Properties.Resources.resources
+E:\Pişti Oyunu Ntp Derya1\Pişti Oyunu Ntp\obj\x86\Debug\Pişti Oyunu Ntp.csproj.GenerateResource.Cache
+E:\Pişti Oyunu Ntp Derya1\Pişti Oyunu Ntp\bin\Debug\Pişti Oyunu Ntp.exe
+E:\Pişti Oyunu Ntp Derya1\Pişti Oyunu Ntp\bin\Debug\Pişti Oyunu Ntp.pdb
